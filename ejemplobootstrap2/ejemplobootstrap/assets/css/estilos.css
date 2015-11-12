@@ -1,0 +1,175 @@
+.cbusqueda
+{
+	background-color: #e2e2e2;
+	margin-bottom: 30px;
+	height: 50px;
+	padding-top: 10px;
+}
+
+.boxmenu
+{
+	background-color: #e2e2e2;
+	margin-bottom: 30px;
+
+}
+
+.slide
+{
+	background-color: #e2e2e2;	
+	height: 300px;	
+	margin-bottom: 30px;
+}
+
+.cont1
+{
+	margin-bottom: 30px;
+}
+
+.caja11
+{
+	background-color: #e2e2e2;
+	margin-bottom: 30px;
+    height: 200px;	
+
+}
+
+.caja12
+{
+	background-color: #e2e2e2;
+	margin-bottom: 30px;
+    height: 200px;	
+
+}
+
+.caja13
+{
+	background-color: #e2e2e2;
+	margin-bottom: 30px;
+    height: 200px;	
+}
+
+.caja14
+{
+	background-color: #e2e2e2;
+	margin-bottom: 30px;
+    height: 200px;	
+}
+
+.caja21
+{
+	background-color: #e2e2e2;
+	margin-bottom: 30px;
+    height: 300px;	
+
+}
+
+
+.caja22
+{
+	background-color: #e2e2e2;
+	margin-bottom: 30px;
+    height: 300px;	
+
+}
+
+
+.formulario
+{
+	background-color: #e2e2e2;
+	margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.box4
+{
+	/*background-color: #e2e2e2;*/
+	margin-bottom: 30px;
+    
+}
+
+
+.box5
+{
+	background-color: #e2e2e2;
+	margin-bottom: 30px;
+}
+
+
+.footer
+{
+	background-color: #e2e2e2;
+	margin-bottom: 30px;	
+}
+
+.footer1
+{
+	background-color: #e2e2e2;
+	margin-bottom: 30px;	
+}
+
+.footer1
+{
+	background-color: #e2e2e2;
+	margin-bottom: 30px;	
+}
+
+
+nav{
+   
+    padding:10px;
+    width:950px;
+    
+}
+
+nav ul{
+    list-style:none;
+    margin:0 10px 0 10px;
+    padding:0;
+    align-items: center;
+    float: right;
+}
+
+nav ul li{
+   
+    float:left;
+    font-size:16px;
+    font-weight:bold;
+    margin-right:10px;
+    text-align:center;
+   
+}
+
+
+
+nav ul li a{
+    color:#999;
+    display:block;
+    padding:10px;
+    text-decoration:none;
+   
+}
+
+nav ul li a:hover {
+    color:#000;
+    text-decoration: none;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.btnx{
+  
+  margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+.tablaa{
+  -webkit-box-shadow: 5px 5px 5px 0px rgba(219,212,219,1);
+-moz-box-shadow: 5px 5px 5px 0px rgba(219,212,219,1);
+box-shadow: 5px 5px 5px 0px rgba(219,212,219,1);
+}
+.tbfot{
+    margin-top: 20px;
+}
